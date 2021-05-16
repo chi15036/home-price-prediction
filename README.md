@@ -2,7 +2,8 @@
 
 ## About The Research
 
-使用 [airbnb open data](http://insideairbnb.com/get-the-data.html)，建立台北房價預測模型
+* 使用 [airbnb open data](http://insideairbnb.com/get-the-data.html)，建立台北房價預測模型
+* [報告連結](https://docs.google.com/presentation/d/1tYZ1Rn7N_vJlSojI67i0fdwIhSn_UhRp4NbaWusb7fc/edit?usp=sharingx)
 
 
 <!-- GETTING STARTED -->
